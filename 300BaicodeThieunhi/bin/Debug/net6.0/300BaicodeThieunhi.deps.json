@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "300BaicodeThieunhi/1.0.0": {
+        "runtime": {
+          "300BaicodeThieunhi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "300BaicodeThieunhi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

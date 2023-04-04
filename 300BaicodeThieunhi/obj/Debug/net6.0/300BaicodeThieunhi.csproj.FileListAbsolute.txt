@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\obj\Debug\net6.0\300BaicodeThieunhi.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\obj\Debug\net6.0\300BaicodeThieunhi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\obj\Debug\net6.0\300BaicodeThieunhi.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\obj\Debug\net6.0\300BaicodeThieunhi.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\obj\Debug\net6.0\300BaicodeThieunhi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\bin\Debug\net6.0\300BaicodeThieunhi.exe
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\bin\Debug\net6.0\300BaicodeThieunhi.deps.json
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\bin\Debug\net6.0\300BaicodeThieunhi.runtimeconfig.json
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\bin\Debug\net6.0\300BaicodeThieunhi.dll
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\bin\Debug\net6.0\300BaicodeThieunhi.pdb
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\obj\Debug\net6.0\300BaicodeThieunhi.dll
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\obj\Debug\net6.0\refint\300BaicodeThieunhi.dll
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\obj\Debug\net6.0\300BaicodeThieunhi.pdb
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\obj\Debug\net6.0\300BaicodeThieunhi.genruntimeconfig.cache
+C:\Users\Admin\Desktop\LeetCode\300BaicodeThieunhi\300BaicodeThieunhi\obj\Debug\net6.0\ref\300BaicodeThieunhi.dll
