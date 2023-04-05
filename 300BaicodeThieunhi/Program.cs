@@ -78,4 +78,61 @@
             Console.WriteLine(result[1]);
         }*/
     }
+
+    public class TreeNode
+    {
+        public int val;
+        public TreeNode left;
+        public TreeNode right;
+
+        public TreeNode(int val=0, TreeNode left=null, TreeNode right = null)
+        {
+            this.val=val;
+            this.left=left;
+            this.right=right;
+        }
+
+        public void PrintTree(TreeNode root)
+        {
+            if (root == null)
+                return;
+            Console.Write(root.val + "   ");
+            PrintTree(root.left);
+            PrintTree(root.right);
+        }
+
+        public class Solution
+        {
+            public TreeNode InvertTree(TreeNode root)
+            {
+                if(root != null)
+                {
+                    var temp = root.left;
+                    root.left = InvertTree(root.right);
+                    root.right = InvertTree(temp);
+                }
+
+                return root;
+            }
+            /*
+            public static void Main(String[] args)
+            {
+                TreeNode root = new TreeNode(4);
+                root.left = new TreeNode(2);
+                root.right = new TreeNode(7);
+                root.left.left = new TreeNode(1);
+                root.left.right = new TreeNode(3);
+                root.right.left = new TreeNode(6);
+                root.right.right = new TreeNode(9);
+
+                root.PrintTree(root);
+
+                var x= new Solution();
+                x.InvertTree(root);
+
+                Console.WriteLine();
+                root.PrintTree(root);
+            }*/
+        }
+    }
 }
